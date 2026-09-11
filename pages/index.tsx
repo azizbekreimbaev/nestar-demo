@@ -36,7 +36,7 @@ export default function Home() {
           />
           <div className={styles.intro}>
             <h1>
-              To get started, edit the{" "}
+              PAGES ROUTER Hello world To get started, edit the{" "}
               <code className={styles.code}>index.tsx</code> file.
             </h1>
             <p>
