@@ -4,7 +4,7 @@ import WestIcon from "@mui/icons-material/West";
 import EastIcon from "@mui/icons-material/East";
 import { Swiper, SwiperSlide } from "swiper/react";
 //@ts-ignore
-import { Navigation, Pagination } from "swiper";
+import { Navigation, Pagination } from "swiper/modules";
 import TrendPropertyCard from "./TrendPropertyCard";
 
 const TrendProperties = () => {
